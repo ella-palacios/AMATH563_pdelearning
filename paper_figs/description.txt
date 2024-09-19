@@ -1,0 +1,1 @@
+The contents of this file are all figures used in the paper and final presentation "That's Op: Learning of Functional PDE Operators in a Data Driven Setting."
